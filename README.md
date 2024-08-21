@@ -26,4 +26,4 @@ Este projeto faz parte do curso de Blockchain Developer with Solidity, oferecido
 7.	Distribuição de Tokens:
 	Tokens representando participação na DAO serão gerados.
 	A distribuição será proporcional ao valor aportado por cada membro.
-# DAOProject
+
